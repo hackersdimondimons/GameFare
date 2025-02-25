@@ -1,6 +1,6 @@
 # GameFair
 
-This shows How to start GameFair Lottery DApp with NextJs, Solidity, and CometChat on Crossfi testnet Chain:
+This shows How to start GameFair Lottery DApp with NextJs, Solidity, and CometChat on creatorchain testnet Chain:
 
 <div align="center">
   <img src="./screenshots/0.gif" alt="Creating a Lottery" />
